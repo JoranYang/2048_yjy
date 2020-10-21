@@ -267,3 +267,5 @@ var game={
 }
 //页面加载后，启动游戏
 window.onload=function(){game.start()}
+
+console.log('测试')
