@@ -269,3 +269,4 @@ var game={
 window.onload=function(){game.start()}
 
 console.log('测试')
+console.log('测试2')
